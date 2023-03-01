@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    background-color: #12122a;
+    color: white;
+}
+

@@ -1,0 +1,7 @@
+{
+  "name": "Github-GraphQL-API",
+  "version": "1.0.0",
+  "scripts": {
+    "api": "elm-graphql https://api.github.com/graphql --header 'Authorization: bearer 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'"
+  }
+}

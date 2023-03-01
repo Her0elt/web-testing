@@ -1,0 +1,34 @@
+{
+  "name": "cv-tracker-solid",
+  "scripts": {
+    "dev": "solid-start dev",
+    "build": "solid-start build",
+    "start": "solid-start start"
+  },
+  "type": "module",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "solid-start-node": "^0.2.0",
+    "tailwindcss": "^3.2.0",
+    "typescript": "^4.8.4",
+    "vite": "^3.1.8"
+  },
+  "dependencies": {
+    "@hope-ui/core": "^1.0.0-next.7",
+    "@solidjs/meta": "^0.28.0",
+    "@solidjs/router": "^0.5.0",
+    "@stitches/core": "^1.2.8",
+    "clsx": "^1.2.1",
+    "firebase": "^9.12.1",
+    "firebase-admin": "^8.6.0",
+    "firebase-functions": "^3.2.0",
+    "solid-js": "^1.6.0",
+    "solid-start": "^0.2.0",
+    "tailwind-merge": "^1.8.0",
+    "undici": "^5.11.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
